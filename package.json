@@ -19,8 +19,16 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "mongoose": "^5.4.10"
-  }
+    "mongoose": "^5.6.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunsnesse/GoogleBookSearch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bunsnesse/GoogleBookSearch/issues"
+  },
+  "homepage": "https://github.com/bunsnesse/GoogleBookSearch#readme"
 }
